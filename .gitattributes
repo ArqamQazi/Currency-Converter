@@ -1,5 +1,2 @@
-
-*.c linguist-vendored=false
-*.dart linguist-vendored=true
-*.cmake linguist-vendored=false
-*.cpp linguist-vendored=false
+* linguist-vendored
+*.dart linguist-vendored=false
