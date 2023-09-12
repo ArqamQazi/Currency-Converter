@@ -1,4 +1,4 @@
 * linguist-vendored
 *.c linguist-vendored=false
-*.cpp linguist-vendored=false
+*.cpp linguist-vendored=true
 *.cmake linguist-vendored=false
